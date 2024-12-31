@@ -1,0 +1,5 @@
+API 1 : https://localhost:7001
+API 2 : https://localhost:7002
+API 3 : https://localhost:7003
+
+API_Gateway : https://localhost:7109
